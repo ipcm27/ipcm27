@@ -40,7 +40,7 @@
   
 
 <br>
-<hr>
+  ![Snake animation](https://github.com/ipcm27/ipcm27/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 
