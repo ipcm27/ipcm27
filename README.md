@@ -1,26 +1,14 @@
 ### Hello World!
 
 
-I'm Igor, a ** web-devlopment student at @LetsCode💻  and B-Tech Student🎓 at @Senai**.
-I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-
-<ul>
-  <li>🔭 I’m currently working on Web Development and Web Applicatons</li>
-  <li>🌱 I’m currently learning Angular 12</li>
-  <li>👯 I’m looking to collaborate on Disruptive projects</li>
-  <li>💬 Ask me about my plan to create my startup in 10 years</li>
-  <li>⚡ Fun fact: I'm Platinum WildRift and Bronze at League of Lgeends. I mean..
-    how is this even possible ?</li>
-</ul>
-
-<br>
-<hr>
+<p> I'm Igor, a web-devlopment student at @LetsCode💻  and B-Tech Student at @Senai 🎓</p>
+<p> I love building interesting and amazing products that serve a great deal of purpose.</p> 
 <br>
 
 <div align="center">
   <a href="https://github.com/ipcm27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -31,21 +19,26 @@ I love building interesting and amazing products that serve a great deal of purp
   <img align="center" alt="Angular"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  
-  
 </div>
 
-<!--
-**ipcm27/ipcm27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🔭 I’m currently working on Web Development and Web Applicatons</li>
+  <li>🌱 I’m currently learning Angular 12</li>
+  <li>👯 I’m looking to collaborate on Disruptive projects</li>
+  <li>💬 Ask me about my plan to create my startup in 10 years</li>
+  <li>⚡ Fun fact: I'm Platinum WildRift and Bronze at League of Lgeends. I mean..
+    how is this even possible ?</li>
+</ul>
+  
+  <p>Here's my LinkedIn if you wanto to reach me out<p>
+  
+  <a href="https://www.linkedin.com/in/igor-pierre-b7139b125/" <img align="center" alt="Spring" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">></a>
+  
 
-Here are some ideas to get you started:
+<br>
+<hr>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
