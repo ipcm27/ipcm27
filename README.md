@@ -1,16 +1,19 @@
 ### Hello World!
 
 
-<p> I'm Igor, a web-devlopment student at @LetsCode💻  and B-Tech Student at @Senai 🎓</p>
+<p> I'm Igor, a web-devlopment student at <a href="https://letscode.com.br/degree/web">@LetsCode💻</a>  and B-Tech Student at <a href="https://cursos.sesisenai.org.br/detalhes/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/25151/69436">@Senai</a> 🎓</p>
 <p> I love building interesting and amazing products that serve a great deal of purpose.</p> 
 <br>
 
+
+
 <div align="center">
-  <a href="https://github.com/ipcm27">
+  <a href="https://github.com/ipcm27"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
