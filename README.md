@@ -1,9 +1,21 @@
-### Bonsoir, Elliot👋
+### Bonsoir, Elliot
+
+I'm Igor. I love web-development 
+<ul>
+  <li>🔭 I’m currently working on Web Development and Web Applicatons</li>
+  <li>🌱 I’m currently learning Angular 12</li>
+  <li>👯 I’m looking to collaborate on Disruptive projects</li>
+  <li>💬 Ask me about my plan to create my startup in 10 years</li>
+  <li>⚡ Fun fact: I'm Platinum WildRift and Bronze at League of Lgeends. I mean..
+    how is this even possible ?</li>
+</ul>
+
+<hr>
 
 <div align="center">
   <a href="https://github.com/ipcm27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=merkoe&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
