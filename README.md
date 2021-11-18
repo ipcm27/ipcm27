@@ -20,6 +20,7 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
+<br>
 
 <ul>
   <li>🔭 I’m currently working on Web Development and Web Applicatons</li>
@@ -32,7 +33,7 @@
   
   <p>Here's my LinkedIn if you wanto to reach me out<p>
   
-  <a href="https://www.linkedin.com/in/igor-pierre-b7139b125/" <img align="center" alt="Spring" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">></a>
+  <a href="https://www.linkedin.com/in/igor-pierre-b7139b125/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 
 <br>
