@@ -10,12 +10,14 @@ I'm Igor. I love web-development
     how is this even possible ?</li>
 </ul>
 
+<br>
 <hr>
+<br>
 
 <div align="center">
   <a href="https://github.com/ipcm27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=merkoe&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=radicale&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
