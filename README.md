@@ -1,6 +1,8 @@
 ### Bonsoir, Elliot
 
-I'm Igor. I love web-development 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@Senai](https://www.vit.ac.in)**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+
 <ul>
   <li>🔭 I’m currently working on Web Development and Web Applicatons</li>
   <li>🌱 I’m currently learning Angular 12</li>
@@ -16,8 +18,8 @@ I'm Igor. I love web-development
 
 <div align="center">
   <a href="https://github.com/ipcm27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=radicale&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=reactle&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&theme=react&line_height=27&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
