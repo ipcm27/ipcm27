@@ -26,12 +26,12 @@
 <br>
 
 <ul>
-  <li>🔭 I’m currently working on Web Development and Web Applicatons</li>
+  <li>🔭 I’m currently working on responsive web applicatons</li>
   <li>🌱 I’m currently learning Angular 12</li>
-  <li>👯 I’m looking to collaborate on Disruptive projects</li>
+  <li>👯 I’m looking to collaborate on disruptive projects</li>
   <li>💬 Ask me about my plan to create my startup in 10 years</li>
-  <li>⚡ Fun fact: I'm Platinum WildRift and Bronze at League of Lgeends. I mean..
-    how is this even possible ?</li>
+  <li>⚡ Fun fact: I'm Platinum at WildRift and Bronze at League of Lgeends. I mean..
+    how is this even possible? It's the same game</li>
 </ul>
   
  
