@@ -26,7 +26,7 @@
 <br>
 
 <ul>
-  <li>🔭 I’m currently working on responsive web applicatons</li>
+  <li>🔭 I like working on web applicatons</li>
   <li>🌱 I’m currently learning Angular 12</li>
   <li>👯 I’m looking to collaborate on disruptive projects</li>
   <li>💬 Ask me about my plan to create my startup in 10 years</li>
