@@ -1,7 +1,7 @@
 ### Hello World!
 
 
-<p> I'm Igor, a web-devlopment student at <a href="https://letscode.com.br/degree/web">@LetsCode💻</a>  and B-Tech Student at <a href="https://cursos.sesisenai.org.br/detalhes/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/25151/69436">@Senai</a> 🎓</p>
+<p> I'm Igor, a fullstack devloper at <a href="https://www.reachr.com.br/">@Reachr💻</a>  and B-Tech Student at <a href="https://cursos.sesisenai.org.br/detalhes/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/25151/69436">@Senai</a> 🎓</p>
 <p> I love building interesting and amazing products that serve a great deal of purpose.</p> 
 <br>
 
@@ -27,9 +27,9 @@
 
 <ul>
   <li>🔭 I like working on web applicatons</li>
-  <li>🌱 I’m currently learning Angular 12</li>
+  <li>🌱 I’m currently improving my skills with Typescript/Angular and Java/spring</li>
   <li>👯 I’m looking to collaborate on disruptive projects</li>
-  <li>💬 Ask me about my plan to create my startup in 10 years</li>
+  <li>💬 Ask me about how I changed my life with code in the middle of the pandemics</li>
   <li>⚡ Fun fact: I'm Platinum at WildRift and Bronze at League of Lgeends. I mean..
     how is this even possible? It's the same game</li>
 </ul>
