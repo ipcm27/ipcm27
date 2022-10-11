@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/ipcm27"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipcm27&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
 <div style="display: inline_block">
   <br>
