@@ -1,7 +1,9 @@
 ### Hello World!
 
 
-<p> I'm Igor, a fullstack devloper at <a href="https://www.reachr.com.br/">@Reachr💻</a>  and B-Tech Student at <a href="https://cursos.sesisenai.org.br/detalhes/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/25151/69436">@Senai</a> 🎓</p>
+<p> 👾 I'm Igor, an international fullstack developer who likes Angular and Java. </p>
+<p> 🗺️ I've already worked with people from all continents (except from Antartica)<p>
+<p> ✈️ Currently relocaring from Brasil🇧🇷 to Portugal🇵🇹 </p>
 <p> I love building interesting and amazing products that serve a great deal of purpose.</p> 
 <br>
 
