@@ -12,8 +12,8 @@
 <div align="center">
   
   <a href="https://github.com/ipcm27"></a>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ipcm27"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=ipcm27"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipcm27"/>
 </div>
 <div style="display: inline_block">
   <br>
