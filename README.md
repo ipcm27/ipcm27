@@ -27,9 +27,14 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Spring" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  	
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  		
 </div>
 <br>
+<h6> Certified</h6> 
+<a href="https://www.hackerrank.com/certificates/iframe/364d85ead183">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
 
 <ul>
   <li>🔭 I like working on web applicatons</li>
