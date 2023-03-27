@@ -36,7 +36,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 <br>
-  ##
+  <hr>
 <ul>
   <li>🔭 I like working on web applicatons</li>
   <li>🌱 I’m currently improving my skills with Typescript/Angular and Java/spring</li>
@@ -50,7 +50,7 @@
   ##
  
 <div> 
-  <p>Here's my LinkedIn and Email if you wanto to reach me out<p>
+  <h3>Linkedin and Gmail</h3>
    <a href="https://www.linkedin.com/in/igor-pierre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:igorpcmiranda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
