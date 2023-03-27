@@ -36,7 +36,10 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 <br>
-  <hr>
+  
+ 
+  ##
+ 
 <ul>
   <li>🔭 I like working on web applicatons</li>
   <li>🌱 I’m currently improving my skills with Typescript/Angular and Java/spring</li>
