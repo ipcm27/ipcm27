@@ -30,9 +30,12 @@
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   		
 </div>
-<br>
+  
+ 
+  ##
+ 
 <h3> Certified</h3> 
-<a href="https://www.hackerrank.com/certificates/iframe/364d85ead183">
+<a href="https://www.hackerrank.com/certificates/364d85ead183">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 <br>
