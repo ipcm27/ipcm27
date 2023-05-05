@@ -3,7 +3,6 @@
 
 <p> 👾 I'm <strong>Igor</strong>, an international fullstack developer who likes <strong>Angular and Java.</strong> </p>
 <p> 🗺️ I've already worked with people from all continents (except from Antartica 🐧)<p>
-<p> ✈️ Currently relocaring from Brasil🇧🇷 to Portugal🇵🇹 </p>
 <p> I love building interesting and amazing products that serve a great deal of purpose.</p> 
 <br>
 
