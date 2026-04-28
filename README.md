@@ -6,7 +6,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipcm27&theme=tokyo-night&hide_border=true"/>
 </div>
 
-<p>I'm <strong>Igor</strong>, a fullstack developer turned <strong>AI engineer</strong> — currently working in Luxembourg as a frontalier living in Germany.</p>
+<p>I'm <strong>Igor</strong>, a fullstack developer turned <strong>AI engineer</strong></p>
 <p>My current stack revolves around <strong>Python, React and Azure AI</strong>, with a focus on applied AI, document intelligence and LLM-powered systems.</p>
 <p>I've worked with people from all continents (still waiting on Antarctica).</p>
 <p>I love building products that actually solve real problems — bonus points if there's an agent involved.</p>
