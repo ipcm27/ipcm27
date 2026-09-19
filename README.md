@@ -2,8 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Fullstack+Developer;AI+Engineer;Python+%7C+React+%7C+Azure+AI;Building+things+that+matter" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipcm27&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 <p>I'm <strong>Igor</strong>, a fullstack developer turned <strong>AI engineer</strong></p>
